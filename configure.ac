@@ -1,5 +1,5 @@
 AC_PREREQ([2.69])
-AC_INIT([msr-tools], [1.3.0], [https://01.org/msr-tools])
+AC_INIT([msr-tools], [1.4.0], [https://github.com/miguelinux/msr-tools])
 AM_INIT_AUTOMAKE([1.14 -Wall -Werror -Wno-extra-portability foreign no-dist-gzip dist-zip])
 AM_SILENT_RULES([yes])
 LT_INIT([disable-static])
