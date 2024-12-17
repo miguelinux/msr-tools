@@ -12,6 +12,7 @@ config.status
 config.sub
 configure
 cpuid
+msr-cpuid
 depcomp
 install-sh
 libtool
